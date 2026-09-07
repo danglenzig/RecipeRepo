@@ -5,3 +5,6 @@ Markdown
 
 ### 🥗 Mains & Entrees
 * [Baked Tortellini Casserole](BakedTortelliniCasserole.md)
+
+### 🍿 Snacks
+* [Honey Baked Cayenne Almonds](HoneyBakedCayenneAlmonds.md)
