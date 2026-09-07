@@ -1,5 +1,7 @@
 Baked Tortellini Casserole
 
+![](baked_tort_cass.jpg)
+
 Ingredients:
 
 - 1 package (~540g) frozen cheese tortellini
