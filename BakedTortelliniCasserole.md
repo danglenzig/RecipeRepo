@@ -1,8 +1,8 @@
-Baked Tortellini Casserole
+# Baked Tortellini Casserole
 
 ![](baked_tort_cass.jpg)
 
-Ingredients:
+## Ingredients:
 
 - 1 package (~540g) frozen cheese tortellini
 
@@ -22,8 +22,18 @@ Ingredients:
 
 - 2 tablespoons minced fresh basil, divided
 
+## Equipment
 
-Cooking instructions:
+- Casserole dish
+  
+- Saucepan
+
+- Oven
+
+- Stove
+
+
+## Cooking instructions:
 
 1. Prep: Preheat oven to 190°C (375°F). Lightly grease a large 9x13-inch (approx. 3-liter) baking dish.
 
