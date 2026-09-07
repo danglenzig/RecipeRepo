@@ -8,3 +8,4 @@ Markdown
 
 ### 🍿 Snacks
 * [Honey Baked Cayenne Almonds](HoneyBakedCayenneAlmonds.md)
+* [Chili Con Queso](Queso.md)
