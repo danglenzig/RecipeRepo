@@ -5,6 +5,7 @@ Markdown
 
 ### 🥗 Mains & Entrees
 * [Baked Tortellini Casserole](BakedTortelliniCasserole.md)
+* [Slow Cooked Tex-Mex Chili](SlowCookedTexMexChili.md)
 
 ### 🍿 Snacks
 * [Honey Baked Cayenne Almonds](HoneyBakedCayenneAlmonds.md)
