@@ -8,5 +8,6 @@ Markdown
 * [Slow Cooked Tex-Mex Chili](Brad/SlowCookedTexMexChili.md)
 
 ### 🍿 Snacks
+* [Zucchini Bread](Brad/ZucchiniBread.md)
 * [Honey Baked Cayenne Almonds](Brad/HoneyBakedCayenneAlmonds.md)
 * [Chili Con Queso](Brad/Queso.md)
